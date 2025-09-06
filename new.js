@@ -16,6 +16,8 @@ let result=""
  console.log(result);
  console.log("");
 console.log(' Here we go..');
+console.log();
+
 
 
 
