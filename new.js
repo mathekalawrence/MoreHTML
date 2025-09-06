@@ -1,6 +1,7 @@
 
 const character = "#";
 const count = 8;
+const a = 22;
 const rows = [];
 
 for (let i=0; i<count; i=i+1){
@@ -14,5 +15,6 @@ let result=""
 
  console.log(result);
  console.log("");
+
 
 
